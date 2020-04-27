@@ -24,7 +24,7 @@ description: >-
   Blog pessoal onde escrevo sobre assuntos diversos
   e exercito meus pensamentos sobre
   temas que vejo como relevantes.
-baseurl: "/profile/blog"
+baseurl: "/blog"
 url: "https://cledersonbc.github.io"
 
 # User settings
