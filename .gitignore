@@ -1,0 +1,13 @@
+# npm
+node_modules/
+package-lock.json
+
+# ts
+.tscache/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
+vendor/
