@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Beleza: subjetiva ou universal?"
+date:   2020-04-29 16:06:00 -0300
+categories: pensamentos algoritmos idiomas
+---
+
+O meu nível de inglês foi classificado como intermediário B1 do *Common European Framework of Reference for Languages* (CEFR), basedo no *Rosetta Stone American Pre-test*. Um resultado positivo, porém não o suficiente com o que eu gostaria.
+
+Decidi ingressar em plataformas de conversação, em outros idiomas, com o intuito de melhorar meu inglês. Acabei criando uma conta e ficando em uma plataforma específica, bem popular, por sinal, que permite conversas por meio de texto e voz.
+
+Por estar na faixa dos 20 anos, coloquei uma foto recente, não muito aterrorizante, e preenchi informações de idioma e tópicos de interesse em conversar (procurei variar o máximo possível) e feito. Fiquei duas horas esperando alguém de algum país me chamar para conversar, e nada. Então comecei a disparar conversas variadas. Eu olhava o perfil da pessoa e procurava encontrar algum assunto que gerasse afinidade ou que a instigasse a tomar algum tipo de posicionamento para eu iniciar a conversa. Por exemplo, enviei a um vegano:
+
+> — *Pizza or hamgurguer?*
+
+O veganismo é uma postura ética para reduzir a dor e o sofrimento animal na medida do possível e necessário. Logo, é de se esperar que um vegano não consuma carne ou goste de hambúrgueres. E foi exatamente por isso que eu havia feito uma pergunta provocativa. Com um bom tom de humor, o americano me respondeu da seguinte forma:
+
+> — *Weed! High weed! Telescopes are used to observe the known universe. Weed is used to observe the unknown universe.*
+
+Em dois dias conheci pelo menos 5 pessoas para conversar em inglês. Eu conheci também uma brasileira na plataforma e resolvi conversar com ela para saber se sua experiência também foi tão frustrante quanto a minha. Ela me disse que recebia muitas mensagens, mas segundo suas palavras, a maioria era mensagens do tipo "oi, manda foto pelada". Mas, claro, em um outro idioma.
+
+# O algoritmo da conquista
+Aquela conversa com a brasileira me fez suspeitar sobre os motivos pelos quais as pessoas estavam na plataforma. Eu também fiquei um tanto sentido quanto curioso pelo que ela passava todos os dias e queria entender mais de perto como era essa situação. E foi a partir daí que decidi criar um perfil secundário como **mulher**.
+
+Para não ser injusto e usar o rosto de uma outra pessoa real, decidi usar um algoritmo computacional que, dada uma base de imagens, usa inteligência artificial para criar um rosto de uma pessoa que **não existe**. Este foi o resultado:
+
+![Mulher artificial gerada por IA]({{ site.baseurl }}/assets/posts/2020-04-29-mulher-artificial.jpg "Mulher artificial gerada por IA")
+
+Branca, ruiva e de olhos verdes. Por muitos ela seria considerada uma mulher bonita. Após a criação de seu rosto, meu segundo passo foi rejuvenescê-la, deixando-a assim:
+
+| ![Mulher artificial jovem sorrindo]({{ site.baseurl }}/assets/posts/2020-04-29-mulher-artificial-jovem-sorrindo.jpg "Mulher artificial jovem sorrindo") | ![Mulher artificial jovem]({{ site.baseurl }}/assets/posts/2020-04-29-mulher-artificial-jovem.jpg "Mulher artificial jovem") |
+
+Chamei-a de Clarisse em homenagem à personagem Clarisse McClellan, do livro Fahrenheit 451; uma personagem que transmite ao leitor energias positivas e de alegria.
+
+Também registrei o mesmo idioma de interesse (inglês) e repliquei aos demais os detalhes da minha conta original, como a idade, exceto o sexo.
+
+# A experiência
+Ao criar a conta sem uma foto, recebi uma mensagem tímida:
+
+> — hi
+
+Após colocar uma das duas fotos mostradas acima, respondi:
+
+> — hi
+
+A mensagem recebida era de um americano. Enquanto ele digitava suas próximas falas, recebi mais mensagens de pessoas de outros países. Ao longo de 2 h (**duas horas**) recebi mensagens de pessoas do Irã, outros países árabes, Índia e até países que não consegui identificar exatamente quais eram.
+
+Foi uma experiência diferente. Em duas horas eu recebi mais mensagens como mulher do que como homem em dois dias. Assim como o americano que me enviou "hi", muitas das pessoas que entraram em contato comigo queriam saber se eu estava "solteira" ou em busca de relacionamento. Alguns até estavam seriamente engajados em me ajudar a aprender um novo idioma, apresentaram propostas interessantes, mas claramente eu sabia que no fundo haviam segundas intenções talvez amorosas. Eu não conseguia responder a todas as pessoas, então algumas ficavam "desesperadas" por atenção. Fui até chamado de "garota de informática com 4 letras" (em termos leves) por um talvez canadense.
+
+Esses eventos me levaram a crer que a maioria das pessoas estavam lá em busca de um romance internacional (embora não seja este o propósito da plataforma), e não para aprender um novo idioma. Minha experiência também me trouxe algumas reflexões que eu gostaria de compartilhar.
+
+# Uma breve reflexão
+A brasileira que aceitou conversar comigo, conforme relatei no início desta história, também era jovem e bonita. Segunda ela, minha abordagem para conversar foi diferente e engraçada, senão ela teria feito como fazia com a maioria: recusar a conversa (opção concedida pela plataforma). Olhando o perfil de outras moças, como polonesas e russas, por exemplo, notei que não era difícil encontrar frases do tipo "*only women*". Ou seja, a moça só aceitaria conversar com mulheres para aprender um novo idioma (embora até a presente data de publicação desta postagem, não exista este tipo de filtro para os usuários).
+
+Após este teste eu excluí a conta secundária. Na minha conta principal, um professor de inglês, que era francês, entrou em contato comigo disposto a me ajudar com conversação e escrita. Mas ele estava procurando um rapaz para usar sua língua com outros propósitos... então repeti um trecho da biografia do meu perfil para ele:
+
+> "[...] I am here to learn English. Pls, no meeting/date!"
+
+Após a frase supracitada, recebi um "bye" e fui bloqueado.
+
+Eu não julgo pessoas que buscam um romance internacional, mesmo que por meio de um lugar onde é sabidamente desencorajado pela própria política de uso. Se minha namorada fosse de outra nacionalidade, falasse sua língua de forma nativa e tivéssemos nos conhecidos e nos conectados por meio de uma vontade virtual de aprender um idioma, eu acharia superlegal. Mas em até que ponto as pessoas seriam capazes de se entregar a uma paixão ou amor com quem nunca viram pessoalmente ou que conheceram na forma de bits, e não de átomos?
+
+Pixels, algoritmos e lentes são capazes de nos mostrar um recorte muito belo da realidade. Mas em até que ponto esse recorte retrata e condiz com a realidade? A Clarisse é o nosso melhor exemplo. E sobre a própria Clarisse, por que pessoas de vários países a acharam tão bela? Será que a beleza é subjetiva, restrita a percepção e gosto individual ou existem padrões de beleza que tem como base a natureza humana, tornando-a universal? Segundo Roger Scruton — filósofo britânico que se dedicou ao estudo da estética e da arte — este é um campo de discussão perigoso em culturas democráticas. Porque as pessoas podem se ofender com a ideia de que existam bons gostos e maus gostos. Mas, sinceramente, acho muito difícil metrificar beleza (tanto a objetiva quanto a subjetiva), mas gosto de sua ideia de que a beleza está relacionada a observação e sentimentalidade das pessoas. Talvez Clarisse seja bela exatamente pelo que me motivou a dar seu nome, conforme descrevi. Então... a beleza importa? Um rostinho bonito, principalmente se for feminino, será mais agradável, convidativo e receptivo a maioria das pessoas? Eu responderia, mas agora preciso estudar inglês. Até a próxima.
+
+
