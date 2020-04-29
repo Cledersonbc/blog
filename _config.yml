@@ -26,6 +26,7 @@ description: >-
   temas que vejo como relevantes.
 baseurl: "/blog"
 url: "https://cledersonbc.github.io"
+show_excerpts: true
 
 # User settings
 username: Clederson Cruz
