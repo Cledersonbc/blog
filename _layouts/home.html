@@ -14,16 +14,27 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        {%- assign date_format = site.minima.date_format | default: "%-d %b, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        {%- assign date_format = site.minima.date_format | default: "%-d %b, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <div class="post-summary">
+          <p>
+            {%- if post.thumbnail -%}
+              <a href="{{ post.url | relative_url }}" ><img class="thumbnail" src="{{ post.thumbnail | relative_url }}" /></a>
+            {%- endif -%}
+          </p>
+          {%- if site.show_excerpts -%}
+          <a href="{{ post.url | relative_url }}">{{ post.excerpt }}</a>
+          {%- endif -%}
+        </div>
+        <div class="readme">
+          <a href="{{ post.url | relative_url }}">Continuar Lendo</a>
+        </div>
+        <hr>
       </li>
       {%- endfor -%}
     </ul>
