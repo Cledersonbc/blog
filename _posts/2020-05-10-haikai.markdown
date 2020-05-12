@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Poemas de 2015"
+thumbnail: "/assets/posts/2020-05-10-haikai.jpg"
+date:   2020-05-10 21:45:00 -0300
+categories: poemas haikai
+---
+
+Estes são dois poemas antigos que escrevi inspirados no trabalho de Paulo Leminski. Considero Leminski um dos poetas brasileiros mais genial que já li.
+
+# Vamos Filosofar
+
+Vamos filosofar
+
+É minha?
+
+É nossa?
+
+A moça almoça
+<br><br><br>
+Ah, vamos filosofar
+
+É dele?
+
+É vossa?
+
+Arrota a moça, após almoçar
+
+
+# Culto
+
+Não sou culto
+
+Sou oculto
+
+Oculto o que não sei
+
+Cultuo o que serei
+
+Assim dizia o filósofo
+
+Só sei que nada sei
