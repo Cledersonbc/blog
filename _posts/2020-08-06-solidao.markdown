@@ -8,7 +8,7 @@ categories: pensamentos medo solidão
 
 No livro Sapiens: Uma Breve História da Humanidade, Harari ilustra e sustenta uma atrativa linha de pensamento sobre o porquê do sucesso da espécie humana. Segundo Harari, o que possibilitou o *Homo sapiens* subjulgar as demais espécies foi a capacidade criar redes complexas de cooperação. O funcionamento dessas redes carece de que as pessoas compartilhem de um mito em comum, como por exemplo:
 
-Muitas pessoas lutarão em uma guerra porque acreditam que dessa forma estarão protegendo a Nação e suas famílias; muitas pessoas trabalharão para cumprir as metas de uma corporação porque acreditam que no final do mês recerão um salário e, também, muitas pessoas obedecerão aos mandamentos de Cristo porque acreditam que assim terão vida eterna. O que motiva estas pessoas é a recompensa e até que ela se torne real é um mito compartilhado (ou uma realidade intersubjetiva, na linguagem do autor).
+Muitas pessoas lutarão em uma guerra, porque acreditam que dessa forma estarão protegendo a Nação e suas famílias; muitas pessoas trabalharão para cumprir as metas de uma corporação, porque acreditam que no final do mês recerão um salário e, também, muitas pessoas obedecerão aos mandamentos de Cristo, porque acreditam que assim terão vida eterna. O que motiva estas pessoas é a recompensa e até que ela se torne real é um mito compartilhado (ou uma realidade intersubjetiva, na linguagem do autor).
 
 | ![Homem só observando]({{ site.baseurl }}/assets/posts/2020-12-14-homem-so.jpg "Homem só observando") |
 
