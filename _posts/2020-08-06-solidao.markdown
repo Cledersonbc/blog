@@ -17,9 +17,9 @@ Já que o *Homo sapiens* é uma criatura social, que constrói o seu sucesso sob
 
 # Seres Sociais
 
-Dependemos de seres humanos para nascer. E, após o nascimento, dependemos de outros seres humanos para alimentação, cuidados e necessidades básicas. Talvez a primeira interação social que fazemos, mesmo que de forma inconsciente, seja a maternal. Quando os bebês crescem, é comum serem introduzidos (ou despejados) em um ambiente conhecido como **escola**. Na escola geralmente ocorre os primeiros e mais marcantes choques de interesses e interações, onde a criança, sentindo-se sozinha, começa a descobrir algo chamado **aceitação social** e, talvez, não-conscientemente começa a procurar por seu grupo. 
+Dependemos de seres humanos para nascer. E, após o nascimento, dependemos de outros seres humanos para alimentação, cuidados e necessidades básicas. Talvez a primeira interação social que fazemos, mesmo que de forma inconsciente, seja a maternal. Quando os bebês crescem, é comum serem introduzidos (ou despejados) em um ambiente conhecido como **escola**. Na escola, geralmente ocorre os primeiros e mais marcantes choques de interesses e interações, onde a criança, sentindo-se sozinha, começa a descobrir algo chamado **aceitação social** e, talvez, não-conscientemente começa a procurar por seu grupo. 
 
-Crianças crescem, tornam-se adolescentes, buscam grupos para beber, namorar, irem às festas. Adolescentes amadurecem, alguns entram na faculdade e procuram grupos para estudar e se formar. Na vida adulta precisam trabalhar. No trabalho, também precisam de grupos de pessoas para executarem apenas algumas tarefas, ou, todo o trabalho em si. São pessoas dependendo de pessoas. Alguns dependem mais e outros dependem menos.
+Crianças crescem, tornam-se adolescentes, buscam grupos para beber, namorar, irem às festas. Adolescentes amadurecem, alguns entram na faculdade e procuram grupos para estudar e se formar. Na vida adulta precisam trabalhar. No trabalho, também precisam de grupos de pessoas para executarem apenas algumas tarefas, ou, todo o trabalho em si. São pessoas dependendo de pessoas. Algumas dependem mais e outras dependem menos.
 
 | ![Pessoas na cidade]({{ site.baseurl }}/assets/posts/2020-12-14-cidade-pessoas.jpg "Pessoas na cidade") |
 
@@ -33,6 +33,6 @@ Companhias trazem seus louros assim como a solidão. Mas estar só e não estar 
 
 | ![Homem só lendo]({{ site.baseurl }}/assets/posts/2020-12-14-homem-so-lendo.jpg "Homem só lendo") |
 
-É possível imaginar que solidão significa estar exclusivamente na presença de si e com atenção para si. A solidão não é algo ruim que deva ser temido, porque o que realmente as pessoas devem temer é não estarem na companhia de si. Então, quando ver uma pessoa que julga solitária, não tenha pena dela, tenha admiração, porque, com certeza, ela traz consigo uma musculatura racional que talvez nem os poucos mais bem acompanhados chegam a ter.
+É possível imaginar que solidão significa estar exclusivamente na presença de si e com atenção para si. A solidão, de certa forma, não é algo ruim que deve ser temido, porque o que realmente as pessoas devem temer é não estarem na companhia de si. Então, quando ver uma pessoa que julga solitária, antes de sentir pena, reflita se não há indícios para admirá-la. Talvez ela traga, consigo, uma musculatura racional que nem mesmo os poucos mais bem acolhidos — socialmente — conseguem ter.
 <br><br><br><br>
 *Dedico este texto à música Comptine d'un autre été (Amélie theme).*
