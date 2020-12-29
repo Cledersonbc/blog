@@ -1,9 +1,10 @@
 source "https://rubygems.org"
 
-#gem "jekyll", "~> 3.8.5"
+gem "jekyll", "~> 3.8.5"
+gem "kramdown", ">= 2.3.0"
 
 gem "minima", "~> 2.5"
-gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 
 # Plugins
 group :jekyll_plugins do
