@@ -19,4 +19,4 @@ Nós sabemos disso porque as possíveis pessoas permitidas por nosso DNA excedem
 <br>
 <br>
 <br>
-— *Retirado da música <a href="https://www.youtube.com/embed/qrMwxe2ya5E" target="_blank">The Greatest Show on Earth</a> (com <a href="https://www.britannica.com/biography/Richard-Dawkins" target="_blank">Richard Dawkins</a>), da banda <a href="https://pt.wikipedia.org/wiki/Nightwish" target="_blank">Nightwish</a>, inspirada no livro de Dawkins de mesmo nome*.
+— *Retirado da música <a href="https://youtu.be/qrMwxe2ya5E" target="_blank">The Greatest Show on Earth</a> (com <a href="https://www.britannica.com/biography/Richard-Dawkins" target="_blank">Richard Dawkins</a>), da banda <a href="https://pt.wikipedia.org/wiki/Nightwish" target="_blank">Nightwish</a>, inspirada no livro de Dawkins de mesmo nome*.
